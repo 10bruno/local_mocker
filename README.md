@@ -27,7 +27,7 @@ Project developed in GO as a local mock
 * Run command: "go run main.go"
 * Url call: http://localhost:3000/?code=400
 
-"code" is the http status you want returned.
+**"code" is the http status you want returned.**
 
 
 ### References
