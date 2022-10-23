@@ -8,7 +8,7 @@ Project developed in GO as a local mock
 
 * Local mock for develpment
 * Read files to file system
-* Rest API do return Json File
+* Rest API to return Json File
 
 
 ---
