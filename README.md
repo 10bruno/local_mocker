@@ -31,6 +31,6 @@ Project developed in GO as a local mock
 
 
 ### References
-
+* https://go.dev/dl/ (local go installation)
 * https://go.dev/src/net/http/status.go
 * https://golangbyexample.com/set-http-status-code-golang/
