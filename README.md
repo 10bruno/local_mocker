@@ -14,10 +14,10 @@ Project developed in GO as a local mock
 ---
 
 ### Upgrade Plan
-| Description                                     | Check?                |
-|-------------------------------------------------|-----------------------|
-| Include HttpStatus 5XX                          | :black_square_button: |
-| Create unit tests                               | :black_square_button: |
+| Description                                     | Done?                 | Date       |
+|-------------------------------------------------|-----------------------|------------|
+| Include HttpStatus 5XX                          | :heavy_check_mark:    | 17/05/2023 |
+| Create unit tests                               | :black_square_button: |            |
 
 
 ---
